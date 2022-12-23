@@ -1,5 +1,5 @@
 # 1.Palindrome-or-not
-n=int(input())
+n=int(input('Enter any number:'))
 a=n
 b=0
 while a>0:
